@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tasha-urbancic/scripting-http-requests-with-request-package/issues"
   },
-  "homepage": "https://github.com/tasha-urbancic/scripting-http-requests-with-request-package#readme"
+  "homepage": "https://github.com/tasha-urbancic/scripting-http-requests-with-request-package#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
